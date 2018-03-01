@@ -1,0 +1,11 @@
+D:\repos\AmirMVC\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.deps.json
+D:\repos\AmirMVC\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.runtimeconfig.json
+D:\repos\AmirMVC\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.runtimeconfig.dev.json
+D:\repos\AmirMVC\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.dll
+D:\repos\AmirMVC\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.pdb
+D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.csprojResolveAssemblyReference.cache
+D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.csproj.CoreCompileInputs.cache
+D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.AssemblyInfoInputs.cache
+D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.AssemblyInfo.cs
+D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.dll
+D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.pdb
