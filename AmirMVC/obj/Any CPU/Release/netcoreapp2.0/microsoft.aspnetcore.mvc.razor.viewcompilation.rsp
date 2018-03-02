@@ -1,0 +1,12 @@
+D:\Project\MVCLABBAPP\AmirMVC
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=AmirMVC
+--content-root=D:\Project\MVCLABBAPP\AmirMVC
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Home\About.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Home\Contact.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Home\Index.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Shared\Error.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Shared\_Layout.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\_ViewImports.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\_ViewStart.cshtml

@@ -9,3 +9,14 @@ D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.AssemblyInfoInputs.cach
 D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.AssemblyInfo.cs
 D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.dll
 D:\repos\AmirMVC\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.pdb
+D:\Project\MVCLABBAPP\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.deps.json
+D:\Project\MVCLABBAPP\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.runtimeconfig.json
+D:\Project\MVCLABBAPP\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.runtimeconfig.dev.json
+D:\Project\MVCLABBAPP\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.dll
+D:\Project\MVCLABBAPP\AmirMVC\bin\Debug\netcoreapp2.0\AmirMVC.pdb
+D:\Project\MVCLABBAPP\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.csprojResolveAssemblyReference.cache
+D:\Project\MVCLABBAPP\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.csproj.CoreCompileInputs.cache
+D:\Project\MVCLABBAPP\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.AssemblyInfoInputs.cache
+D:\Project\MVCLABBAPP\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.AssemblyInfo.cs
+D:\Project\MVCLABBAPP\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.dll
+D:\Project\MVCLABBAPP\AmirMVC\obj\Debug\netcoreapp2.0\AmirMVC.pdb
