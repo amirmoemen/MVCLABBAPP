@@ -2,9 +2,16 @@ D:\Project\MVCLABBAPP\AmirMVC
 --output-path=obj\Any CPU\Release\netcoreapp2.0\
 --application-name=AmirMVC
 --content-root=D:\Project\MVCLABBAPP\AmirMVC
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\HelloWorld\Index.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\HelloWorld\Welcome.cshtml
 --file=D:\Project\MVCLABBAPP\AmirMVC\Views\Home\About.cshtml
 --file=D:\Project\MVCLABBAPP\AmirMVC\Views\Home\Contact.cshtml
 --file=D:\Project\MVCLABBAPP\AmirMVC\Views\Home\Index.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Movies\Create.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Movies\Delete.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Movies\Details.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Movies\Edit.cshtml
+--file=D:\Project\MVCLABBAPP\AmirMVC\Views\Movies\Index.cshtml
 --file=D:\Project\MVCLABBAPP\AmirMVC\Views\Shared\Error.cshtml
 --file=D:\Project\MVCLABBAPP\AmirMVC\Views\Shared\_Layout.cshtml
 --file=D:\Project\MVCLABBAPP\AmirMVC\Views\Shared\_ValidationScriptsPartial.cshtml

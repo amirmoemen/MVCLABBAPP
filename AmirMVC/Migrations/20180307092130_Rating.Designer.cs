@@ -11,9 +11,10 @@ using System;
 namespace AmirMVC.Migrations
 {
     [DbContext(typeof(AmirMVCContext))]
-    partial class AmirMVCContextModelSnapshot : ModelSnapshot
+    [Migration("20180307092130_Rating")]
+    partial class Rating
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcuHQsoK6fUWXgWNXiTmQ5wAAAAACAAAAAAADZgAAwAAAABAAAAAXVbRkg8QdKfcpBR2Yp1QHAAAAAASAAACgAAAAEAAAAC1+LLTXsiu8ULzaErMniRqAAAAARU78u2ftPPqKivhd0puf/2KUovwDxpbSCy91+4YHDBXlHYDe7+n80nCn/BsARYi4fklpMxyBEQp+xuJXx5dHXgdt1wWnV1do1pTcEEBNXy95Tf0Z3NsQiIJmAo6Yq22k36+tQ3imrS78ctJbWKo74GfiI42Bk/F9FZ/WdASn+5oUAAAA7i2BS0B7EK41ISh/h6bY3D15TdI=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AmirMVCContext">
+      <Value>Data Source=tcp:minserver.database.windows.net,1433;Initial Catalog=AmirAppen_db;User Id=amirmoemen@minserver;Password=Jobbjobb123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
